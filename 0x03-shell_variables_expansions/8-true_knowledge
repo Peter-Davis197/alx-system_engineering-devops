@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ ($TRUEKWONLEDGE+128)
+echo $(($TRUEKWONLEDGE+128))
